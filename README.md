@@ -1,4 +1,4 @@
-# Smolov Squat Program Planner
+# Smolov Weight Training Program Planner
 
 A spreadsheet-based planning tool for the Smolov backsquat program - one of the most intense and effective strength training protocols for increasing your squat 1-rep max (1RM).
 
